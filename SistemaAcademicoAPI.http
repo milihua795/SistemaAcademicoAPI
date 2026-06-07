@@ -1,0 +1,6 @@
+@SistemaAcademicoAPI_HostAddress = http://localhost:5024
+
+GET {{SistemaAcademicoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
